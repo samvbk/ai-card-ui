@@ -43,5 +43,6 @@ VITE_OPENROUTER_API_KEY=your_openrouter_api_key_here
 ```bash
 npm run dev
 ```
+<img width="1914" height="915" alt="Screenshot 2026-02-21 115430" src="https://github.com/user-attachments/assets/66e7edf3-7150-4846-9740-85cdc388b4ec" />
 
 
